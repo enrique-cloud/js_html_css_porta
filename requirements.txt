@@ -1,0 +1,7 @@
+# video_guia: https://www.youtube.com/watch?v=ivyIqmczxHU&t=153s
+# iconos: https://boxicons.com/
+# gradientes_css: https://webgradients.com/
+# imagenes_chidas: https://unsplash.com/
+# fuentes_letra: https://fonts.google.com/
+# imagenes_isometricas: https://www.manypixels.co/gallery
+#
